@@ -46,3 +46,4 @@ uv.lock
 old_eda.ipynb
 matches.csv
 deliveries.csv
+dbconfig.py
