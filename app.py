@@ -223,8 +223,6 @@ st.divider()
 
 st.header("Key Takeaways")
 
-st.header("Key Takeaways")
-
 st.markdown("""
 1. Dot-ball pressure is one of the strongest recurring indicators of IPL success.
 
