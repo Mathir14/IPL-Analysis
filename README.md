@@ -1,5 +1,7 @@
 # IPL Match Outcome Analysis: Understanding Pressure and Team Success
+## Live Dashboard
 
+[View Dashboard](https://iplanalysis-mathir14.streamlit.app/)
 ## Executive Summary
 
 This project analyzes IPL matches from 2008–2024 to identify factors associated with team and match success.
